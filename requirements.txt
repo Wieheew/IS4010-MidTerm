@@ -1,0 +1,7 @@
+# Core dependencies
+requests>=2.31.0  # For making HTTP requests to the Emojihub API
+
+# Testing dependencies
+pytest>=7.4.0     # For running both unittest and pytest style tests
+pytest-cov>=4.1.0 # For test coverage reporting
+coverage>=7.3.0   # For code coverage analysis
